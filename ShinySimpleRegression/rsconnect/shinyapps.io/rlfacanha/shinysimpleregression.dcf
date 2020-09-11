@@ -5,8 +5,8 @@ account: rlfacanha
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2793208
-bundleId: 3620303
+bundleId: 3620325
 url: https://rlfacanha.shinyapps.io/shinysimpleregression/
-when: 1599860624.94038
+when: 1599861026.32334
 asMultiple: FALSE
 asStatic: FALSE
